@@ -5,3 +5,7 @@
 ---
 
 Nesse código me foi pedido que tentasse fazer um código que fosse capaz de calcular a trajetória de N corpos em qualquer quantidade M de dimensões, utilizando o metodo de Euler para os intervalos de tempo.
+
+Fica esse exemplo de plot gerado com esse código:
+
+![](.\plot.gif)
