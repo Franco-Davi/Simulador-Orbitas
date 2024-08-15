@@ -9,3 +9,5 @@ Nesse código me foi pedido que tentasse fazer um código que fosse capaz de cal
 Fica esse exemplo de plot gerado com esse código:
 
 ![](https://github.com/Franco-Davi/Simulador-Orbitas/blob/main/salvas/S1-plot.gif)
+
+O repositório também conta com um scritp para o Gnuplot que usa um arquvo .dat para plotar os dados gerados pelo simulador em formato de gif animado. 
