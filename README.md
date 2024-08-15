@@ -8,4 +8,4 @@ Nesse código me foi pedido que tentasse fazer um código que fosse capaz de cal
 
 Fica esse exemplo de plot gerado com esse código:
 
-![](https://github.com/Franco-Davi/Simulador-Orbitas/blob/main/plot.gif)
+![](https://github.com/Franco-Davi/Simulador-Orbitas/blob/main/salvas/S1-plot.gif)
